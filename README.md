@@ -24,7 +24,7 @@ I'm 14-year-old boy, Currently high school student 📚📚. But this is not a p
 ![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![](https://img.shields.io/badge/figma-0AC97F?style=for-the-badge&logo=figma&logoColor=white)
 ![](https://img.shields.io/badge/adobeXd-purple?style=for-the-badge&logo=adobexd&logoColor=white)
-![](https://img.shields.io/badge/%F0%9F%92%85%20styled_Icons-pink?style=for-the-badge)
+![](https://img.shields.io/badge/%F0%9F%92%85%20Styled_Components&Icons-pink?style=for-the-badge)
 
 ## My Github Status 🦸
 
