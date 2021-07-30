@@ -1,3 +1,10 @@
+
+
+<h1 align="center">
+ <img width="22px" height="22px" alt="Logo G B" src="https://github.com/gbrogio/discord-clone/blob/master/public/logo.png">
+ Discord - Interface
+</h1>
+
 ![app demonstration](https://github.com/gbrogio/discord-clone/blob/master/public/app-demo.gif?raw=true)<p align="center">
  
  <p align="center">
@@ -160,12 +167,12 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
-- ![](https://img.shields.io/badge/_-green?style=for-the-badge&logo=Node.js&logoColor=white) [Node.js](https://nodejs.org/en/)
-- ![](https://img.shields.io/badge/_-0000?style=for-the-badge&logo=Next.js&logoColor=white) [NextJS](https://www.nextjs.org/)
-- ![](https://img.shields.io/badge/_-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) [React](https://pt-br.reactjs.org/)
-- ![](https://img.shields.io/badge/_-0081CB?style=for-the-badge&logo=typescript&logoColor=white) [TypeScript](https://www.typescriptlang.org/)
-- ![](https://img.shields.io/badge/_-orange?style=for-the-badge&logo=firebase&logoColor=white) [Firebase](https://firebase.google.com/)
-- 💅🏾 [Styled_Components](https://styled-components.com/)
+- ![](https://img.shields.io/badge/|-green?style=for-the-badge&logo=Node.js&logoColor=white) [Node.js](https://nodejs.org/en/)
+- ![](https://img.shields.io/badge/|-0000?style=for-the-badge&logo=Next.js&logoColor=white) [NextJS](https://www.nextjs.org/)
+- ![](https://img.shields.io/badge/|-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) [React](https://pt-br.reactjs.org/)
+- ![](https://img.shields.io/badge/|-0081CB?style=for-the-badge&logo=typescript&logoColor=white) [TypeScript](https://www.typescriptlang.org/)
+- ![](https://img.shields.io/badge/|-orange?style=for-the-badge&logo=firebase&logoColor=white) [Firebase](https://firebase.google.com/)
+- ![](https://img.shields.io/badge/%F0%9F%92%85%20-pink?style=for-the-badge) [Styled_Components](https://styled-components.com/)
 
 ### <h1 id="Autor">👤 Contato</h1>
 ---
