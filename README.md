@@ -172,7 +172,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - ![](https://img.shields.io/badge/|-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) [React](https://pt-br.reactjs.org/)
 - ![](https://img.shields.io/badge/|-0081CB?style=for-the-badge&logo=typescript&logoColor=white) [TypeScript](https://www.typescriptlang.org/)
 - ![](https://img.shields.io/badge/|-orange?style=for-the-badge&logo=firebase&logoColor=white) [Firebase](https://firebase.google.com/)
-- ![](https://img.shields.io/badge/%F0%9F%92%85%20-pink?style=for-the-badge) [Styled_Components](https://styled-components.com/)
+- ![](https://img.shields.io/badge/%F0%9F%92%85%20_|-pink?style=for-the-badge) [Styled_Components](https://styled-components.com/)
 
 ### <h1 id="Autor">👤 Contato</h1>
 ---
