@@ -20,7 +20,6 @@ I'm 14-year-old boy, Currently high school student 📚📚. I am Brazilian, and
 ![](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
 ![](https://img.shields.io/badge/TypeScript-0081CB?style=for-the-badge&logo=typescript&logoColor=white)
-![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![](https://img.shields.io/badge/figma-0AC97F?style=for-the-badge&logo=figma&logoColor=white)
 ![](https://img.shields.io/badge/adobeXd-purple?style=for-the-badge&logo=adobexd&logoColor=white)
 ![](https://img.shields.io/badge/%F0%9F%92%85%20Styled_Components&Icons-pink?style=for-the-badge)
