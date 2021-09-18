@@ -1,8 +1,7 @@
 # Hello, I am Guilherme 
 
-I'm 14-year-old boy, Currently high school student 📚📚. But this is not a problem for my evolution as a programmer, I am Brazilian, and currently, I live in the state of Paraná. I'm a front-end developer, in this giant world of ReactJS and Next.js. Always evolving and always looking for a next level.
+I'm 14-year-old boy, Currently high school student 📚📚. I am Brazilian, and currently, I live in the state of Paraná. I'm a front-end developer, in this giant world of ReactJS and Next.js. Always evolving and always looking for a next level.
 
-- 🔭 I’m currently working on a personal project... More infos coming soon.
 - 🌱 I’m currently work in the front-end area, working with React components and Interfaces with next and typescript. 💼
 - 💬 I'm open to suggestions or questions from the front-end world. ❗❓
 - 📫 How to reach me: [guilhermbrogio.ps@gmail.com](mailto:guilhermebrogio.ps@gmail.com) 📧 & my Discord: [\<GBrogio /\>#0645](https://discord.com/channels/@me) 🎮
