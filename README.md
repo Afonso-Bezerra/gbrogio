@@ -4,7 +4,7 @@ I'm 14-year-old boy, Currently high school student 📚📚. I am Brazilian, I l
 
 - 🌱 I’m currently work in the front-end area, working with React components and Interfaces with next and typescript. 💼
 - 💬 I'm open to suggestions or questions from the front-end world. ❗❓
-- 📫 How to reach me: [guilhermbrogio.ps@gmail.com](mailto:guilhermebrogio.ps@gmail.com) 📧 & my Discord: [\<GBrogio /\>#0645](https://discord.com/channels/@me) 🎮
+- 📫 How to reach me: [guilhermbrogio.ps@gmail.com](mailto:guilhermebrogio.ps@gmail.com) 📧 & my Discord: [GBrogio#5159](https://discord.com/channels/@me) 🎮
 - 😄 Pronouns: He/Him. 👦
 - ⚡ Fun fact: I am a big fan of Artificial Intelligence(A.I.). 🤖
 - 🗣️ Além de melhorar minha programação, procuro sempre melhorar meu inglês e espanhol.
