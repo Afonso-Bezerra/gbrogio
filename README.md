@@ -24,7 +24,7 @@ I'm 15-year-old boy, Currently high school student 📚📚. I am Brazilian, I l
 
 ## My Github Status 🦸
 
-![Snake animation](https://github.com/gbrogio/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=gbrogio&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="devSouvik's Github Stats">
+![Snake animation](https://github.com/gbrogio/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gbrogio&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/devSouvik/github-readme-stats)
